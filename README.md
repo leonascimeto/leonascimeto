@@ -5,7 +5,7 @@
 - 💭 Pretendo me tornar fullstack em um futuro próximo
 
 
-<div align="center">
+<div>
   <a href="https://github.com/leonascimeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonascimeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonascimeto&layout=compact&langs_count=7&theme=dracula"/>
