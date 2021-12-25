@@ -1,7 +1,7 @@
 ## Olá,  eu sou o Leonardo Fernandes
 - 📖 Apaixonado por desenvolvimento de sistemas desde o primeiro Hello World!
-- 🎯 Em busca de atuar no mercado de desenvolvimento frontend
-- 📚 Estudando React, React Native, Javascript e NodeJS
+- 🎯 Em busca de atuar no mercado de desenvolvimento web
+- 📚 Estudando React, Typescript, TypeORM, Node e Postgres
 - 💭 Pretendo me tornar fullstack em um futuro próximo
 
 
